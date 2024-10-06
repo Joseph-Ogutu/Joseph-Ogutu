@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a car portal website using Java, Jsp and SpringBoot.<br>I'm looking to collaborate on a Full-stack project.<br>I'm currently learning PHP.<br>Ask me about full-stack projects.<br>Fun facts about Data Science and Machine Learning.
+I'm looking to collaborate on a Full-stack project.<br>I'm currently learning Python.<br>Ask me about full-stack projects.<br>Fun facts about Data Science and Machine Learning.
 
 
 ## 🌐 Socials:
