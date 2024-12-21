@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm looking to collaborate on a Full-stack project.<br>Ask me about full-stack projects.<br>Fun facts about Data Science and Machine Learning.
+I'm looking to collaborate on a Full-stack project.<br>Ask me about full-stack projects.<br>Fun facts about Data Science, Machine Learning and Artificial Inteligence.
 
 
 ## 🌐 Socials:
