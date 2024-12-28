@@ -1,5 +1,13 @@
 # 💫 About Me:
-I'm looking to collaborate on a Full-stack project.<br>Ask me about full-stack projects.<br>Interest about Data Science, Machine Learning and Artificial Inteligence.
+Hello
+I'm super stoked to meet other developers in this space and build full-stack projects with fellow enthusiasts! Whether you're looking at building an MVP or expanding an existing application, hit me up.
+
+Interests Full-stack development: Creating applications end-to-end is great fun! If you've got thoughts to share, personal experiences on past or existing projects-you're most welcome!
+Data Science, Machine Learning, and Artificial Intelligence: I am excited to explore how data can be used to drive insight and innovation. Feel free to discuss the latest trends or share resources with me!
+Let's Connect!
+Always looking to learn and grow; feel free to connect! Looking forward to collaborating with you!
+
+
 
 
 ## 🌐 Socials:
