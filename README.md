@@ -1,5 +1,4 @@
-#  About Me:
-I build Systems
+#  I build Cool Shit!
 
 Interests Full-stack development: Creating applications end-to-end is great fun! If you've got thoughts to share, personal experiences on past or existing projects-you're most welcome!
 Data Science, Machine Learning, and Artificial Intelligence: I am excited to explore how data can be used to drive insight and innovation. Feel free to discuss the latest trends or share resources with me!
