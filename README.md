@@ -50,8 +50,8 @@ I enjoy solving real-world business problems using clean architecture, scalable 
 
 | Project | Description |
 |---------|-------------|
-| STRATNOVO SYSTEMS | AI, Software Engineering and Digital Transformation Company |
-| RUMI Platform | Property and Hostel Management Platform |
+| STRATNOVO  | AI, Software Engineering and Digital Transformation Agency |
+| RUMIA Platform | Property and Hostel Management Platform |
 | KEWASNET AI Assistant | Enterprise AI Assistant powered by MCP |
 | Learning Management System | AI-powered LMS built using Django and Next.js |
 | FlyingDecksman | Music Streaming Platform with Integrated Payments |
