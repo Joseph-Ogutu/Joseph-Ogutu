@@ -1,4 +1,4 @@
-<h1 align="center">I Build Cool Shit!</h1>
+<h1 align="center">I Build Cool Stuff!</h1>
 
 <h3 align="center">Machine Learning Software Engineer</h3>
 
