@@ -146,11 +146,11 @@ I enjoy solving real-world business problems using clean architecture, scalable 
 
 ## Philosophy
 
-> Build software that solves real problems.
+> The world is not interested in what you know.
 
-> Write clean code that lasts.
+> But the world is more interested in.
 
-> Never stop learning.
+> What you can do with what you know.
 
 ---
 
