@@ -1,0 +1,61 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Create assets folder
+        run: mkdir -p assets
+
+      - name: Fetch GitHub stats card
+        run: |
+          curl -sL "https://github-readme-stats.vercel.app/api?username=Joseph-Ogutu&show_icons=true&theme=github_dark&include_all_commits=true&cache_seconds=86400" \
+            -o assets/github-stats.svg
+
+      - name: Fetch top languages card
+        run: |
+          curl -sL "https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-Ogutu&layout=compact&theme=github_dark&cache_seconds=86400" \
+            -o assets/top-langs.svg
+
+      - name: Fetch streak stats card
+        run: |
+          curl -sL "https://streak-stats.demolab.com?user=Joseph-Ogutu&theme=github-dark-blue" \
+            -o assets/streak-stats.svg
+
+      - name: Fetch trophies card
+        run: |
+          curl -sL "https://github-profile-trophy.vercel.app/?username=Joseph-Ogutu&theme=algolia&column=4&margin-w=10&margin-h=10" \
+            -o assets/trophies.svg
+
+      - name: Fetch activity graph
+        run: |
+          curl -sL "https://github-readme-activity-graph.vercel.app/graph?username=Joseph-Ogutu&theme=github-dark" \
+            -o assets/activity-graph.svg
+
+      - name: Validate downloads
+        run: |
+          for f in assets/*.svg; do
+            if ! grep -q "<svg" "$f"; then
+              echo "::warning::$f invalid — keeping previous version."
+              git checkout -- "$f" || true
+            fi
+          done
+
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git diff --staged --quiet || git commit -m "chore: refresh profile stats cards"
+          git push
