@@ -1,14 +1,165 @@
-#  I build Cool Shit!
+<h1 align="center">Hi 👋, I'm Joseph Ogutu</h1>
 
-Interests Full-stack development: Creating applications end-to-end is great fun! If you've got thoughts to share, personal experiences on past or existing projects-you're most welcome!
-Data Science, Machine Learning, and Artificial Intelligence: I am excited to explore how data can be used to drive insight and innovation. Feel free to discuss the latest trends or share resources with me!
+<h3 align="center">
+Machine Learning Software Engineer
+</h3>
 
+<p align="center">
+I build Cool shit
+</p>
 
+---
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
+###
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/josephOgutu)[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/josephogutu_298)[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JosephOgutu)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/josephodhiambo396)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JosephOgutu)[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ogutuJoseph_298)[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/OgutuJoseph892)[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/ogutujoseph)[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/josephOgutu_298)[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@JosephOgutu0)[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/joseph_ogutu)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ogutu_joseph298)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@OgutuJoseph-l3o)[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Ogutu-joseph)[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@@josephOgutu_298) 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws" />
+</div>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)  ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+###
+
+<h2 align="left">👨‍💻 About Me</h2>
+
+- Passionate about Artificial Intelligence, Machine Learning, and Automation
+- Building scalable web applications using **Python, Django, DRF, Next.js & TypeScript**
+- Experienced with Docker, Linux, PostgreSQL, Redis, Cloud Infrastructure & DevOps
+- Based in Nairobi, Kenya
+- Always learning new technologies and contributing to innovative projects
+
+###
+
+<h2 align="left">Featured Projects</h2>
+
+- **STRATNOVO** — Enterprise Software, AI Solutions & Digital Transformation
+- **KEWASNET AI Assistant** — MCP-powered Enterprise AI Assistant
+- **RUMI Platform** — Property & Hostel Management System
+- **Modern Learning Management System** — AI-enhanced LMS built with Django & Next.js
+- **FlyingDecksman** — Music Streaming Platform with Integrated Payments
+
+###
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/YOUR_TWITTER_USERNAME">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://josephogutu.com">
+<img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://stratnovo.co.ke">
+<img src="https://img.shields.io/badge/STRATNOVO-0052CC?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+###
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&count_private=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula" height="165"/>
+
+</div>
+
+###
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dracula" height="170"/>
+
+</div>
+
+###
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&column=4&margin-w=10&margin-h=10"/>
+
+</div>
+
+###
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=dracula"/>
+
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<h2 align="left">Certifications</h2>
+
+- 🎓 Machine Learning Engineer
+- 🎓 AI Engineering
+- 🎓 AWS Cloud Computing
+- 🎓 API Security
+- 🎓 Digital Transformation
+- 🎓 Threat Modeling for AI/ML Systems
+
+###
+
+<h2 align="left">Current Focus</h2>
+
+- AI Agents & MCP
+- Large Language Models (LLMs)
+- Enterprise AI Automation
+- Cloud Infrastructure
+- SaaS Platforms
+- Secure Software Engineering
+
+###
+
+<div align="center">
+
+### Thanks for visiting! 
+
+*"Code with purpose. Build solutions that create impact."*
+
+</div>
