@@ -60,13 +60,7 @@ I enjoy solving real-world business problems using clean architecture, scalable 
 
 ---
 
-## GitHub Statistics
-<div align="center">
-<img height="165" src="assets/github-stats.svg"/>
-<img height="165" src="assets/top-langs.svg"/>
-</div>
 
----
 
 ## Contribution Streak
 <div align="center">
@@ -75,12 +69,6 @@ I enjoy solving real-world business problems using clean architecture, scalable 
 
 ---
 
-## GitHub Trophies
-<div align="center">
-<img src="assets/trophies.svg"/>
-</div>
-
----
 
 ## Contribution Graph
 <div align="center">
